@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.6.1
 Stable tag: 1.0
 
-Become a more persuasive writer and speaker ... build your self-confidence and intellect ...  just by spending 10 VERY enjoyable minutes a day learning!
+Become a more persuasive writer & speaker ... build your confidence and intellect ...  just by spending 10 VERY enjoyable minutes a day
 
 == Description ==
 
