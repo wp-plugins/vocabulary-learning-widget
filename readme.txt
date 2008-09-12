@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Learn Vocabulary Words ===
 Contributors: edwinhuertas
 Donate link: http://www.earlytorise.com/
 Tags: vocabulary, dictionary,glossary
