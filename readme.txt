@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.6.1
 Stable tag: 1.0
 
-Become a more persuasive writer and speaker ... build your self-confidence and intellect ... increase your attractiveness to others ... just by spending 10 VERY enjoyable minutes a day with ETR's new Words to the Wise.
+Become a more persuasive writer and speaker ... build your self-confidence and intellect ...  just by spending 10 VERY enjoyable minutes a day learning!
 
 == Description ==
 
@@ -23,3 +23,14 @@ This widget will display a random word from ETRs Word to the Wise dictionary of 
 2. Enable the 'widget' using your admin (Design >> Widgets)
 
 You're done!
+
+== Frequently Asked Questions ==
+
+= How often do the words change? =
+
+We've set it to refresh and show a new word to every web page visit.
+
+= What is Early To Rise? =
+
+Our mission is to provide important, useful ideas about wealth accumulation and preservation, business success, enhanced productivity, and optimum health – all while offering direction that inspires readers to achieve most any goal set forth.
+
