@@ -1,6 +1,6 @@
 === Learn Vocabulary Words ===
 Contributors: edwinhuertas
-Donate link: http://www.earlytorise.com/
+Donate link: http://www.earlytorise.com/issues/wise/word-definitions/
 Tags: vocabulary, dictionary,glossary
 Requires at least: 2.0.2
 Tested up to: 2.6.1
