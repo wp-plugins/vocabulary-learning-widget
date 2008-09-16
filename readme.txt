@@ -1,7 +1,7 @@
 === Learn Vocabulary Words ===
-Contributors: edwinhuertas
+Contributors: EdwinHuertas
 Donate link: http://www.earlytorise.com/issues/wise/word-definitions/
-Tags: vocabulary, dictionary,glossary
+Tags: vocabulary, dictionary,glossary,words,speech,vocabulary words
 Requires at least: 2.0.2
 Tested up to: 2.6.1
 Stable tag: 1.0
