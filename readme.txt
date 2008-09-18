@@ -32,7 +32,7 @@ We've set it to refresh and show a new word to every web page visit.
 
 = What is Early To Rise? =
 
-Our mission is to provide important, useful ideas about wealth accumulation and preservation, business success, enhanced productivity, and optimum health – all while offering direction that inspires readers to achieve most any goal set forth.
+EarlyToRise.Com is an online health and wealth publication. Our mission is to provide important, useful ideas about wealth accumulation and preservation, business success, enhanced productivity, and optimum health – all while offering direction that inspires readers to achieve most any goal set forth.
 
 == Screenshots == 
 None
