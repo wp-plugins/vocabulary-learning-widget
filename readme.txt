@@ -26,6 +26,10 @@ You're done!
 
 == Frequently Asked Questions ==
 
+= What is this plugin? =
+
+This plugin will display a 'success' word from ETR's Word To The Wise CD. It will display a new word to each visitor.
+
 = How often do the words change? =
 
 We've set it to refresh and show a new word to every web page visit.
