@@ -1,4 +1,4 @@
-=== Learn Vocabulary Words ===
+=== Vocabulary Words ===
 Contributors: EdwinHuertas
 Donate link: http://www.earlytorise.com/issues/wise/word-definitions/
 Tags: vocabulary, dictionary,glossary,words,speech,vocabulary words
