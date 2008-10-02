@@ -14,7 +14,7 @@ This widget has been created by Early To Rise; a publishing company dedicated to
 
 Become a more persuasive writer and speaker ... build your self-confidence and intellect ... increase your attractiveness to others ... just by spending 10 VERY enjoyable minutes a day with ETR's new Words to the Wise.
 
-This widget will display random <a href="http://www.earlytorise.com/issues/wise/word-definitions/">vocabulary words</a> from ETRs Word to the Wise dictionary of success words to your web site visitors.
+This widget will display random <a href="http://www.earlytorise.com/issues/wise/word-definitions/" target="_blank">vocabulary words</a> from ETRs Word to the Wise dictionary of success words to your web site visitors.
 
 
 == Installation ==
